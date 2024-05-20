@@ -40,8 +40,7 @@ To run the Signature App locally, follow these steps:
 
 ## Screenshots
 
-![Signature App Screenshot](Signature-App
-/Signature-App.png)
+![Signature App Screenshot](Signature-App/Signature-App.png)
 
 ## Contributing
 
