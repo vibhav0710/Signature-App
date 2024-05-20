@@ -40,7 +40,8 @@ To run the Signature App locally, follow these steps:
 
 ## Screenshots
 
-![Signature App Screenshot](https://drive.google.com/file/d/1qbUCxj4EmimlFUqf2VClES4nhaSoNend/view?usp=sharing)
+![Signature App Screenshot](Signature-App
+/Signature-App.png)
 
 ## Contributing
 
