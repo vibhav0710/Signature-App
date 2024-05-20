@@ -40,7 +40,7 @@ To run the Signature App locally, follow these steps:
 
 ## Screenshots
 
-![Signature App Screenshot](path-to-screenshot.png)
+![Signature App Screenshot](https://drive.google.com/file/d/1qbUCxj4EmimlFUqf2VClES4nhaSoNend/view?usp=sharing)
 
 ## Contributing
 
@@ -52,4 +52,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Live Demo
 
-Check out the live demo [here](https://your-username.github.io/signature-app/).
+Check out the live demo [here](https://vibhav0710.github.io/Signature-App/).
